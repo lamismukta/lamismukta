@@ -1,3 +1,3 @@
-Hi! I'm Lamis Mukta, a Maths Master's student at Oxford. I am currently doing some research in Topological Data Analysis, which lies at the intersection of Algebraic Topology and Data Analysis.  
+Hi! I'm Lamis Mukta, a Product Manager at Pactio, and formerly a Software Engineer. 
 
-Here you can find my package for persistence landscapes.
+I previously researched in Topological Data Analysis, which lies at the intersection of Algebraic Topology and Data Analysis. Here you can find my package for persistence landscapes from my Master's dissertation.
